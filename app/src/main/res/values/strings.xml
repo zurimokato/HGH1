@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Holy 7u7</string>
+    <string name="lbNombre">Nombre</string>
+    <string name="lbApellido">Apellido</string>
+    <string name="lbCorreo">Correo</string>
+    <string name="lbTelefono">Telefono</string>
+    <string name="btmEnviar">Enviar</string>
+    <string name="Bton">Otra pantalla</string>
+    <string name="texSaludo">Saludo</string>
+    <string name="btnRegresar">Regresar</string>
+    <string name="lbDatos">Datos</string>
+    />
+</resources>
